@@ -33,8 +33,8 @@ In the README, we will first introduce our project, and then we will illustrate 
 **myHeightData.py & myChlData.py:** In these two files, we define the data structure and the functions of the height data and the chl data with the defination of the class.  
 
 **engineMove.py:** we define the class engineMove, which encompasses the function of the engine used in our project. This part is based on the Raspberry Pi's RPi.GPIO.  
-**hgtFile.txt & chlFile.txt:** after the program ended, the data recorded will be saved in the file. We don't read the history data from the file in our project, and the history data will be covered if new data is saved. 
+**hgtFile.txt & chlFile.txt:** after the program ended, the data recorded will be saved in the file. We don't read the history data from the file in our project, and the history data will be covered if new data is saved.  
 
-**gpioChart.txt:** this file records the gpio we use. 
+**gpioChart.txt:** this file records the gpio we use.  
 
 **testFile:** This folder contains the basic/simple funtion we used. Therefore, if with any problem, may search somethiing is this folder.  
